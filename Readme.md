@@ -2,4 +2,4 @@
 
 ## screen de la bd mysql 
 
-![img]()
+![img](./screen2/BD.png)
